@@ -26,12 +26,12 @@ Here are some of the technologies I'm working with or learning:
 
 | Category | Technologies |
 | :--- | :--- |
-| **Cloud** | <img src="https://img.shields.io/badge/-AWS-FF9900?logo=amazonaws&style=flat-square" /> |
+| **Cloud** | <img src="https://img.shields.io/badge/-AWS-FF9900?logo=amazonaws&style=flat-square" /> <br> <img src="https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure&style=flat-square" /> <br> <img src="https://img.shields.io/badge/-GCP-4285F4?logo=googlecloud&style=flat-square" /> |
 | **Containers** | <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&style=flat-square" /> |
 | **CI/CD** | <img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=githubactions&style=flat-square" /> |
-| **Scripting** | <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&style=flat-square" /> |
-| **Databases** | <img src="https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&style=flat-square" /> |
-| **Monitoring** | <img src="https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&style=flat-square" /> <img src="https://img.shields.io/badge/-Grafana-F46800?logo=grafana&style=flat-square" /> |
+| **Scripting** | <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&style=flat-square" /> <br> <img src="https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&style=flat-square" /> |
+| **Databases** | <img src="https.img.shields.io/badge/-SQLite-003B57?logo=sqlite&style=flat-square" /> |
+| **Monitoring** | <img src="https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&style=flat-square" /> <br> <img src="https://img.shields.io/badge/-Grafana-F46800?logo=grafana&style=flat-square" /> |
 
 
 <br>
