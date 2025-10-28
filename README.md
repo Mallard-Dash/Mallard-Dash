@@ -26,7 +26,7 @@ Here are some of the technologies I'm working with or learning:
 
 | Category | Technologies |
 | :--- | :--- |
-| **Cloud** | <img src="https://img.shields.io/badge/-AWS-FF9900?logo=amazonaws&style=flat-square" /> <br> <img src="https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure&style=flat-square" /> <br> <img src="https://img.shields.io/badge/-GCP-4285F4?logo=googlecloud&style=flat-square" /> |
+| **Cloud** | <img src="https://img.shields.io/badge/-AWS-FF9900?logo=amazonaws&style=flat-square" /> <br> <img src="https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure&style=flat-square" /> <br>
 | **Containers** | <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&style=flat-square" /> |
 | **CI/CD** | <img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=githubactions&style=flat-square" /> |
 | **Scripting** | <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&style=flat-square" /> <br> <img src="https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&style=flat-square" /> |
@@ -41,7 +41,7 @@ Here are some of the technologies I'm working with or learning:
 Feel free to connect with me. I'm always open to new opportunities and interesting discussions!
 
 * **LinkedIn:** [linkedin.com/in/Vincent-Bergengren](https://www.linkedin.com/in/vincent-bergengren-129915352/)
-* **Email:** [din.epost@exempel.com](mailto:vincent.bergengren@gmail.com)
+* **Email:** [vincent.bergengren@gmail.com](mailto:vincent.bergengren@gmail.com)
 
 <br>
 
