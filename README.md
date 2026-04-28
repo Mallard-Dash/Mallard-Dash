@@ -27,8 +27,8 @@ When I'm not at school, you'll find me tinkering in my Norse-themed homelab **Mi
 **Cloud & Infrastructure**
 
 ![AWS](https://img.shields.io/badge/-AWS-fe8019?logo=amazonaws&logoColor=282828&style=for-the-badge&labelColor=3c3836)
-![Azure](https://img.shields.io/badge/-Azure-83a598?logo=microsoftazure&logoColor=282828&style=for-the-badge&labelColor=3c3836)
 ![Proxmox](https://img.shields.io/badge/-Proxmox-d65d0e?logo=proxmox&logoColor=ebdbb2&style=for-the-badge&labelColor=3c3836)
+![OPNsense](https://img.shields.io/badge/-OPNsense-fb4934?logo=opnsense&logoColor=ebdbb2&style=for-the-badge&labelColor=3c3836)
 ![Linux](https://img.shields.io/badge/-Linux-fabd2f?logo=linux&logoColor=282828&style=for-the-badge&labelColor=3c3836)
 
 **Containers & CI/CD**
